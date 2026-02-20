@@ -86,6 +86,13 @@ Router# show ip dhcp binding
 Router# show ip dhcp pool
 Router# show ip interface brief
 
+
+## 📷 Network Topology
+
+![Network Topology](topology.png)
+
+
+
 ✅ Why is Port Security Important?
 
 ✔ Prevents unauthorized device access
